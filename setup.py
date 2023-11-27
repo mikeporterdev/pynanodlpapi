@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name="pynanodlpapi",
     packages=["pynanodlpapi"],
-    version="0.0.1",
+    version="0.0.2",
     description="An asynchronous Python library for communicating with the NanoDLP API",
     author="Mike Porter",
     author_email="mikeporterdev@users.noreply.github.com",
